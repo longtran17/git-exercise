@@ -1,3 +1,2 @@
 # git-exercise
-Hello, World!
-Hello, World! 2nd time
+Hello, World! again and again
